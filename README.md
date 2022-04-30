@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MerlinDaWizard
-- 🌱 I’m currently learning Java, Rust, Python, Some js
+- 🌱 I’m currently learning Java, Rust, Python, Some js  
 See ya around :D
 
 <!---
